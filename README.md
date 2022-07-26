@@ -1,3 +1,3 @@
 # Pytthon
 Projeto com Python
-Aula 1 - Python
+Aula 1 - Python Automação
